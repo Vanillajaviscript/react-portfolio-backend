@@ -1,14 +1,14 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Science Quiz",
+    "live": "https://unit-1-project-science-quiz-3wcu5uhyl-vanillajaviscript.vercel.app/",
+    "git": "https://github.com/Vanillajaviscript/Science-Quiz",
+    "image": "https://i.imgur.com/ozoWvfQ.png"
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
+    "name": "Dog Blog",
+    "live": "https://dog-blog-1217.herokuapp.com/blogs",
     "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "image": "https://i.imgur.com/8DY5iC1.png"
   }
 ]
